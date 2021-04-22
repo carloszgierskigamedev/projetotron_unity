@@ -45,8 +45,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\MapController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PauseButton.cs" />
+     <Compile Include="Assets\Scripts\Rastro.cs" />
  <Reference Include="Unity.2D.Animation.Editor">
  <HintPath>C:/Users/johan/OneDrive/Área de Trabalho/projetotron_unity-main/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
